@@ -1,0 +1,7 @@
+OBSERVATIONS:
+
+1. There is a strong positive correlation (.84) between average tumor size and mouse weight. The heavier the mouse, the larger its tumor will likely be.
+
+2. There were more Capomulin and Ramicane tests than tests of other drugs. 
+
+3. Mouse x401 experienced a periods of rapid tumor shrinking, followed by small upticks in tumor volume.
